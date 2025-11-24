@@ -1,0 +1,50 @@
+.title h4{
+    font-weight: 100;
+    font-size: larger;
+}
+
+.title{
+    margin-top: 50px;
+}
+
+section{
+    margin-top: 50px;
+}
+
+.white-bg{
+    background-color: white;
+}
+
+.gray-bg{
+    background-color: gray;
+}
+
+.blue-bg{
+    background-color: blue;
+}
+
+.green-bg{
+    background-color: green;
+}
+
+.red-bg{
+    background-color: red;
+}
+
+.aqua-bg{
+    background-color: aqua;
+}
+
+.yellow-bg{
+    background-color: yellow;
+}
+
+.black-bg{
+    background-color: black;
+}
+
+.wrapping{
+    display: flex;
+    flex-wrap: wrap;
+}
+
